@@ -167,7 +167,7 @@ auto.create.topics.enable=false
 
 # Advanced Kafka CLI operations:
 
-<details><summary>Mac</summary>
+<details><summary>Linux</summary>
 <p>
 
 ## List the topics in a cluster
